@@ -52,6 +52,6 @@
 <p align="center">
   <a href="https://github.com/udpdog"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
   <a href="https://discord.com/users/1485363780685795430"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
-  <a href="https://t.me/backdoorsj"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
+  <a href="https://t.me/llllIlllIIlIlII"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
   <a href="mailto:contact@ethone.eu"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
