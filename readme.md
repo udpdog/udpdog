@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hex (udpdog)
+# exo (udpdog)
 
 </div>
 
